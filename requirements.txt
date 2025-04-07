@@ -1,0 +1,11 @@
+langchain~=0.3.18rc2
+pinecone-client
+langchain-pinecone
+langchain-community
+python-dotenv
+pypdf
+pinecone
+tiktoken
+requests
+ollama
+streamlit

@@ -1,0 +1,24 @@
+# General Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data Science/ML
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.pt
+/data/
+/models/
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# Logs and misc
+*.log
+.DS_Store
+
+*.env
+
